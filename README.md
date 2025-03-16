@@ -20,8 +20,7 @@ This repository contains my **personally handwritten MySQL notes**, covering **b
 
 ## 📷 Preview of the Notes  
 Here are a few snapshots of the handwritten notes:  
-
-📌 *[Attach images of some pages of the notes here]*  
+ 
 
 For the full notes, check out the **PDF file in this repository**!  
 
@@ -30,4 +29,4 @@ For the full notes, check out the **PDF file in this repository**!
 ## 📥 How to Use This Repository?  
 1️⃣ **Clone this repository** to your local machine:  
 ```bash
-git clone https://github.com/YourGitHubUsername/MySQL-Handwritten-Notes.git
+git clone https://github.com/Sirius1616/MySQL-Handwritten-Notes.git
